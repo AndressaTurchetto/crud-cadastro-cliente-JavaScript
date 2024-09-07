@@ -8,4 +8,6 @@ Projeto desenvolvido para estudo do CRUD com JavaScript para cadastro de cliente
 - Entrar na pasta admin
 - Rodar o comando: json-server --watch db.json
 
-Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+## Rodar front 
+- npm install -g browser-sync
+- browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
